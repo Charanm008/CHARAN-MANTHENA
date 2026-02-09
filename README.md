@@ -15,7 +15,7 @@ I'm Charan Manthena, a Computer Science student & aspiring software developer.
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools (learning)
 
 | Area | Stack |
 |-----|------|
