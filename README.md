@@ -9,7 +9,7 @@ I'm Charan Manthena, a Computer Science student & aspiring software developer.
 ## 🧠 Languages
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript)
 
